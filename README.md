@@ -1,6 +1,6 @@
-#### Last name:Sabaugh
-#### First name:Stephen
-#### Github username:SAYbaw
+#### Last name: Sabaugh
+#### First name: Stephen
+#### Github username: SAYbaw
 
 #### Instructions:
 Fill out the top of this form, commit and push it back to GitHub.
