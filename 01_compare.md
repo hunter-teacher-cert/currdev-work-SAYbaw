@@ -1,6 +1,8 @@
 # Compare
 ## *Beauty & Joy of Computing vs CodeHS with python*
 ### Major differences
+BJC is heavily centered on Big Idea 3 of the APCSP framework, Algorithms & Programming. The exercises in snap give more than enough engaging instruction in the AP curriculum. Big Idea 1, creative development, seems to be missing, and replace with a general intro to programming, but from what I've heard, the collaboration and design elements are not addressed on the exam anyway, so perhaps that is intentional. The labs are clever and engaging and the review questions at the end of the units are very well constructed to tie the material together with the APSCP material. Overall, the material on BJC does not feel like advanced placement information to me. It is a little too lightweight. I think this would be great for a non-AP class. The material on digital citizenship and literacy does comport with APCSP but it is the lightest topic covered on BJC. 
+
 CodeHS stays really close to the APCSA framework. The curriculum is laid out the same way as College Board. Code HS is also text based using Python (although there is a version that also uses JS). CodeHS also comes with an accompanying, online text-book. The hadware lessons are really great and better than BJC. BJC is better with the digital citzenship as far as lessons. Code HS appears to be a fully developed, all-in-one, one-stop-shop for a complete class, where BJC isn't as complete.
 
 ### Major similiarities
