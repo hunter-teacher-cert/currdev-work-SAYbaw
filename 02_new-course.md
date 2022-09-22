@@ -19,3 +19,5 @@ I would also use source material from the book and companion website [How Comput
 The target audience for this class is for students interested in studying engineering, electronics, or computer science in college. Also, it would be a fun class for the computer hobbyist.
 
 It is more than a survey type class and is a more of a hands-on lab intensive class so it would be ideal taken as an elective in the student's senior year. They should tak at least one of the AP CS Courses prior.
+
+NOTE: You know this would be a killer idea for a class at Stuy. If this idea inspires you, please allow me to consult ;)
