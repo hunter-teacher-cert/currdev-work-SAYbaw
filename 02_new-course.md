@@ -16,7 +16,7 @@ This class would be based on the amazing book and companion website [The Element
 
 I would also use source material from the book and companion website [How Computers Do Math](https://www.clivemaxfield.com/diycalculator/)
 
-The target audience for this class is for students interested in studying engineering, electronics, or computer science in college. Also, it would be a fun class for the computer hobbyist.
+The target audience for this class is for students interested in studying engineering, electronics, or computer science in college. Also, it would be a fun class for the computer or digital electronic hobbyist. I think this would be also a great idea for a Girl's Engineering/Computing after school club because it teaches CS in from such a unique and hands-on view.
 
 It is more than a survey type class and is a more of a hands-on lab intensive class so it would be ideal taken as an elective in the student's senior year. They should tak at least one of the AP CS Courses prior.
 
