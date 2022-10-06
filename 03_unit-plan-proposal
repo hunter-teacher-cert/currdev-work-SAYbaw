@@ -4,6 +4,19 @@
 ### General Overview
 This unit will be a continuation of the previously taught topic on Operating Systems taught earlier in the semester of the APSCP course. I would give a very brief introduction to C and AWK. There would be lessons on using UNIX pipelines, The BC calculator, regular expressions, and grep. As well as navigating the UNIX file system. I would also give a history of Bell Labs and all the innovations to come out of there, including communication theory, the transistor, cell phones, lasers, and of course UNIX and C. This unit would integrate very well and support math classes, by connecting students' previous knowledge with applied math skills like building predictive models and the use of the very powerful and versatile BC calculator. There will also be a social studies component with a history of Bell Labs and its impact on today's society. 
 
+Lessons
+1. Opeating Systems in-depth
+2. Bell Labs History I
+3. Unix Navigation
+4. Unix Enviroment I
+5. Bell Labs History II
+6. Unix Enviroment II Intro to BC calculator
+7. Regular Expressions and GREP
+8. Intro to C
+9. Intro to AWK
+10. Statistical Modeling with AWK
+
+
 
 
 ### Motivation for Unit
