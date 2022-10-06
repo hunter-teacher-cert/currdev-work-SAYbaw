@@ -2,11 +2,12 @@
 # Unit: UNIX and UNIX-like operating systems.
 
 ### General Overview
-This unit will be a continuation of the previously taught topic on Operating Systems taught earlier in the semester of the APSCP course. I would give a very brief introduction to C and AWK. There would be lessons on using UNIX pipelines, The BC calculator, regular expressions, and grep. As well as navigating the UNIX file system. I would also give a history of Bell Labs and all the innovations to come out of there, including communication theory, the transistor, cell phones, lasers, and of course UNIX and C. This unit would integrate very well and support math classes, by connecting students' previous knowledge with applied math skills like building predictive models and the use of the very powerful and versatile BC calculator. There will also be a social studies component with a history of Bell Labs and its impact on today's society. I would hope this lesson will also help other CS teachers who may want to use a UNIX/Linux environment in their classes by teaching students the basics first. 
+This unit will be a continuation of the previously taught topic on Operating Systems taught earlier in the semester of the APSCP course. I would give a very brief introduction to C and AWK. There would be lessons on using UNIX pipelines, The BC calculator, regular expressions, and grep. As well as navigating the UNIX file system. I would also give a history of Bell Labs and all the innovations to come out of there, including communication theory, the transistor, cell phones, lasers, and of course UNIX and C. This unit would integrate very well and support math classes, by connecting students' previous knowledge with applied math skills like building predictive models and the use of the very powerful and versatile BC calculator. There will also be a social studies component with a history of Bell Labs and its impact on today's society. 
+
+
 
 ### Motivation for Unit
-UNIX has been widely regarded the OS of choice of academics and IT and CS professionals sice the 1980s. 
-Linux distributions are becoming more popular today, and many teens have begun building gaming platforms on them. I think students may find this interesting and engaging intro to the world of UNIX/Linux. 
+UNIX has been widely regarded the OS of choice of academics and IT and CS professionals sice the 1980s. Although thw Windows and DOS based operating systems are more ubiquitous and used by more people, many core CS and IT paradigms and standards have there origins from UNIX and UNIX-like operating systems. It is therfore critical wiyh the technologies now and going into the future to introduce these concepts to students in high school. Linux distributions are becoming more popular today, and many teens have begun building gaming platforms on them. I think students may find this interesting and engaging intro to the world of UNIX/Linux. 
 
 ### Standards Referenced
 9-12.IC.7
