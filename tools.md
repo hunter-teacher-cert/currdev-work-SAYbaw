@@ -23,10 +23,10 @@ ________________________________________________________________________________
 ## Microsoft's Visual Studio
 
     General purpose
-Any class involving a language using MS .net framework (e.g., C#, vb.net, Visual C++). Especiall good for a class focusing on making GUI apps
+Any class involving a language using MS .net framework (e.g., C#, vb.net, Visual C++). Especially good for a class focusing on making GUI apps
 
     The class(es) you use it in.
-An CS class ranging from intro to CS to advance programming.
+Any CS class ranging from intro to CS to advance programming.
 
     How you use it in class.
 Although it is just as a good an IDE for console apps as any other IDE, it is especially good at being an easy to use, intuititive WYSIWYG GUI enviroment for doing apps based around a simple window form. 
